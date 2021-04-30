@@ -1,0 +1,8 @@
+.imageCard {
+  margin: 10px;
+}
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
